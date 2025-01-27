@@ -48,4 +48,6 @@ public class ReglaAccesoBean implements Serializable {
     private String tipoConstruccion;
 
     private String tipoUso;
+
+    private String tipoServicio;
 }

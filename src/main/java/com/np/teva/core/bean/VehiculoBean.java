@@ -38,8 +38,6 @@ public class VehiculoBean implements Serializable {
 
     private Boolean historico;
 
-    private String servicio;
-
     private Timestamp creacion;
 
     @JsonIgnore
