@@ -20,7 +20,7 @@ public enum EstadoRemesaType {
         return codigo;
     }
 
-    public void setDodigo(int codigo) {
+    public void setCodigo(int codigo) {
         this.codigo = codigo;
     }
 

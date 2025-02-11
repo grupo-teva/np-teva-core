@@ -1,6 +1,7 @@
 com\np\teva\core\bean\PermisoTransitoBean.class
 com\np\teva\core\bean\AccesosBean.class
 com\np\teva\core\bean\ReglaNegocioBean.class
+com\np\teva\core\enumeration\EstadoSancionType.class
 com\np\teva\core\bean\ResultRestStore.class
 com\np\teva\core\enumeration\ImportStateType.class
 com\np\teva\core\bean\AccesoIntranetBean.class
