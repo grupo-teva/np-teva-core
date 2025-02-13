@@ -27,7 +27,5 @@ public class DroolsBean implements Serializable {
 
     private Boolean domiciliado;
 
-    private Boolean cumpleItinerario;
-
     private Boolean historico;
 }
