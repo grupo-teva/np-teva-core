@@ -43,6 +43,8 @@ public class ReglaAccesoBean implements Serializable {
 
     private Boolean indDomiciliacion;
 
+    private Boolean indHistorico;
+
     private Boolean cumpleItinerario;
 
     private String tipoConstruccion;
