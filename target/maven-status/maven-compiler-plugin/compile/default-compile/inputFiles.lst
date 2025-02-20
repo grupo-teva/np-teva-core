@@ -23,6 +23,7 @@ C:\Projects\np-teva-core\src\main\java\com\np\teva\core\bean\VehiculoBean.java
 C:\Projects\np-teva-core\src\main\java\com\np\teva\core\enumeration\SistemaType.java
 C:\Projects\np-teva-core\src\main\java\com\np\teva\core\bean\PermisoTransitoBean.java
 C:\Projects\np-teva-core\src\main\java\com\np\teva\core\bean\ReglaNegocioBean.java
+C:\Projects\np-teva-core\src\main\java\com\np\teva\core\exception\RemesaManualServiceException.java
 C:\Projects\np-teva-core\src\main\java\com\np\teva\core\bean\DroolsBean.java
 C:\Projects\np-teva-core\src\main\java\com\np\teva\core\enumeration\SubCondicionAutorizadora.java
 C:\Projects\np-teva-core\src\main\java\com\np\teva\core\enumeration\TipoVehiculosConstruccion.java
