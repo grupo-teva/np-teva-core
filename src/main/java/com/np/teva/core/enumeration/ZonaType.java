@@ -8,6 +8,10 @@ public enum ZonaType {
     CASCO_HISTORICO(2),
     CARRIL_BUS(3),
     VEHICULO_PESADO(4),
+    CENTRO_ARTE_CONTEMPORANEO(5),
+    SOHO(6),
+    TEST_2(7),
+    VIGILANCIA_TRAFICO(8),
     NO_DEFINIDO(99);
 
     private int codZona;
