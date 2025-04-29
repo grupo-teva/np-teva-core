@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35a93c85-f5ab-4a17-856d-c9a9a9ebb57f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/np/teva/core/enumeration/EstadoSancionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/np/teva/core/enumeration/EstadoSancionType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
     "Maven.np-teva-core [verify].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "valladolid-local",
+    "git-widget-placeholder": "malaga-local",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Projects/np-teva-service",
     "node.js.detected.package.eslint": "true",
@@ -108,6 +109,8 @@
       <workItem from="1744193494352" duration="1666000" />
       <workItem from="1745231536669" duration="2476000" />
       <workItem from="1745400345942" duration="7923000" />
+      <workItem from="1745910946014" duration="43000" />
+      <workItem from="1745911008570" duration="861000" />
     </task>
     <servers />
   </component>
