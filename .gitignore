@@ -1,7 +1,5 @@
 # Target files
 /target
-# ignore IDE specific
-.idea/
 
 # Compiled class file
 *.class
@@ -28,3 +26,5 @@
 hs_err_pid*
 replay_pid*
 
+# Idea IntelliJ user preferences
+.idea/workspace.xml
