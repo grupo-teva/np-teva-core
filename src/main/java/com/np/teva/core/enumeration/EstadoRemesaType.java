@@ -12,7 +12,8 @@ public enum EstadoRemesaType {
     QC(5),
     QC_CERRADO(6),
     REMESA_EN_PROCESO(7),
-    REMESA_ENVIADA(8);
+    REMESA_ENVIADA(8),
+    REMESA_CANCELADA(9);
 
     private int codigo;
 
