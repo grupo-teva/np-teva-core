@@ -27,7 +27,8 @@ public enum EstadoSancionType {
     DESCARTADO_QC_PERMISO_RETROACTIVO(20),
     CORTE_DESVIO(21),
     BAJO_DEMANDA(22),
-    DESCARTADO_8MIN (100);
+    DESCARTADO_8MIN (100),
+    DESCARTADO_TIEMPO_CRUCE_EMPADRONADO(101);
 
     private int codigo;
 
