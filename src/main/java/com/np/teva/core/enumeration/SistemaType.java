@@ -28,6 +28,8 @@ public enum SistemaType {
     RASTREATOR(21),
     MITE(22),
     VALIDADOR_TRANSITOS(23),
+    EXENCION_ACCESO(24),
+    REMESADO_AUTOMATICO(25),
     NO_DEFINIDO(99);
 
     private int indexSistemaType;
