@@ -30,4 +30,6 @@ public class DroolsBean implements Serializable {
     private Boolean cumpleItinerario;
 
     private Boolean historico;
+
+    private Integer codZona;
 }
