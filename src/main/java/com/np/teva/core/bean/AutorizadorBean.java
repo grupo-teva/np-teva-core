@@ -6,19 +6,23 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.io.Serializable;
-import java.sql.Timestamp;
+import java.time.LocalDate;
 
 @Getter
 @Setter
-@NoArgsConstructor
 @AllArgsConstructor
+@NoArgsConstructor
 public class AutorizadorBean implements Serializable {
 
-    public int codAutorizador;
+    private int codigoAutorizador;
 
-    public int codRepresentante;
+    private int codigoCondicionAutorizadora;
 
-    public Timestamp fechaAlta;
+    private int codigoRepresentado;
 
-    public Timestamp fechaCaducidad;
+    private int codigoRepresentante;
+
+    private LocalDate fechaAlta;
+
+    private LocalDate fechaCaducidad;
 }
